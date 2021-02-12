@@ -1,0 +1,42 @@
+/* product-details-section */
+
+hr {
+    width: 20%;
+    margin: 0 auto;
+}
+#product {
+    margin: 80px auto;
+}
+.brand-logo {
+    width: 60px;
+}
+.product-details {
+    width: 30%;
+}
+.product-image img {
+    margin-left: 10%;
+}
+.line-id-image {
+    width: 300px;
+    display: block;
+    margin-left: 20%;
+}
+.download-button {
+    text-align: center;
+    width: 50%;
+    margin-top: 30px;
+
+}
+
+/* footnote-Section */
+#footnote {
+    color: #ACA9BB;
+    text-align: center;
+    margin: 50px 0;
+}
+
+/* product-related-Section */
+#product-related {
+    margin-top: 60px;
+    text-align: center;
+}
